@@ -1,15 +1,15 @@
-# Curso Práctico SQL-
+# Curso Práctico SQL
 Ejercicios de curso práctico de platzi 
 ![SQL 1](SQL1.jpg)
 
 
-# Particiones y agregaciones-
-- ROW_NUMBER(): nos da el numero de la tupla que estamos utilizando en ese momento.
-- OVER([PARTITION BY column] [ORDER BY column DIR]): nos deja Particionar y Ordenar la window function.
-- PARTITION BY(column/s): es un group by para la window function, se coloca dentro de OVER.
-- FIRST_VALUE(column): devuelve el primer valor de una serie de datos.
-- LAST_VALUE(column): Devuelve el ultimo valor de una serie de datos.
-- NTH_VALUE(column, row_number): Recibe la columna y el numero de row que queremos devolver de una serie de datos
-- RANK(): nos dice el lugar que ocupa de acuerdo a el orden de cada tupla, deja gaps entre los valores.
-- DENSE_RANK(): Es un rango mas denso que trata de eliminar los gaps que nos deja RANK.
-- PERCENT_RANK(): Categoriza de acuerdo a lugar que ocupa igual que los anteriores pero por porcentajes.
+## Particiones y agregaciones
+**- ROW NUMBER():** Número de la tupla que estamos usando en ese momento.
+**- OVER( [PARTICIÓN POR columna]- [ORDEN POR columna DIR] ):** Particionar y ordenar la WF.
+**- PARTICIÓN POR(columna/s):** Grupo por para la WF (se coloca dentro de OVER).
+**- FIRST VALUE(column):** Primer valor de una serie de datos.
+**- LAST_VALUE (columna):** Último valor de una serie de datos.
+**- NTH_ VALUE(column, row number):** Recibe la columna y el número de fila que queremos devolver de una serie de datos (valor enésimo).
+**- RANK():** Lugar que ocupa de acuerdo a un orden de cada tupla, deja espacios entre los valores.
+**- DENSE_RANK():** Es un rango más denso que trata de eliminar los espacios que nos deja RANK.
+**- PERCENT_RANK():** Categoriza de acuerdo a lugar que ocupa igual que los anteriores pero por porcentajes.|
