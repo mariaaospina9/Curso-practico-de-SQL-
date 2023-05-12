@@ -1,5 +1,5 @@
 # Curso Práctico SQL
-*Ejercicios de curso práctico de platzi *
+*Ejercicios de curso práctico de platzi 
 ![SQL 1](SQL1.jpg)
 
 
