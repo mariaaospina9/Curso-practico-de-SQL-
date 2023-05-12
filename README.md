@@ -1,6 +1,6 @@
 # Curso Práctico SQL-
 Ejercicios de curso práctico de platzi 
-![SQL](SQL.jpg)
+![SQL]
 
 
 # Particiones y agregaciones-
