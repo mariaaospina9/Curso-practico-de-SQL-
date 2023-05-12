@@ -1,5 +1,7 @@
 # Curso Práctico SQL-
 Ejercicios de curso práctico de platzi 
+![SQL](SQL.jpg)
+
 
 # Particiones y agregaciones-
 - ROW_NUMBER(): nos da el numero de la tupla que estamos utilizando en ese momento.
